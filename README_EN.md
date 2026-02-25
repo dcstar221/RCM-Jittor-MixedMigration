@@ -131,7 +131,7 @@ PyTorch loss/eval input (GPU Tensor)
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/RCM-Jittor-MixedMigration.git
+git clone https://github.com/dcstar221/RCM-Jittor-MixedMigration.git
 cd RCM-Jittor-MixedMigration
 ```
 
